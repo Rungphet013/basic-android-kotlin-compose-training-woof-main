@@ -1,0 +1,86 @@
+<!--
+  ~ Copyright (C) 2023 The Android Open Source Project.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">ITBI BUU-SK</string>
+    <string name="dog_name_1">Adriana C. Ocampo Uria 2560</string>
+    <string name="dog_name_2">Albert Einstein 2560</string>
+    <string name="dog_name_3">Anna K. Behrensmeyer 2560</string>
+    <string name="dog_name_4">Blaise Pascal 2560</string>
+    <string name="dog_name_5">Caroline Herschel 2560</string>
+    <string name="dog_name_6">Cecilia Payne-Gaposchkin 2560</string>
+    <string name="dog_name_7">Chien-Shiung Wu 2560</string>
+    <string name="dog_name_8">Dorothy Hodgkin 2560</string>
+    <string name="dog_name_9">Edmond Halley 2560</string>
+    <string name="dog_name_10">Edwin Powell Hubble 2560</string>
+    <string name="dog_name_11">Enrico Fermi 2560</string>
+    <string name="dog_name_12">Erwin Schroedinger 2560</string>
+    <string name="dog_name_13">Flossie Wong-Staal 2560</string>
+    <string name="dog_name_14">Frieda Robscheit-Robbins 2560</string>
+    <string name="dog_name_15">Geraldine Seydoux 2560</string>
+    <string name="dog_name_16">Gertrude B. Elion 2560</string>
+    <string name="dog_name_17">Ingrid Daubechies 2560</string>
+    <string name="dog_name_18">Jacqueline K. Barton 2560</string>
+    <string name="dog_name_19">Jane Goodall 2560</string>
+    <string name="dog_name_20">Jocelyn Bell Burnell 2560</string>
+    <string name="dog_name_21">Johannes Kepler  2560</string>
+    <string name="dog_name_22">Lene Vestergaard Hau 2560</string>
+    <string name="dog_name_23">Lise Meitner 2560</string>
+    <string name="dog_name_24">Lord Kelvin 2560</string>
+    <string name="dog_name_25">Maria Mitchell 2560</string>
+    <string name="dog_name_26">Marie Curie 2560</string>
+    <string name="dog_name_27">Max Born 2560</string>
+    <string name="dog_name_28">Max Planck 2560</string>
+    <string name="dog_name_29">Melissa Franklin 2560</string>
+    <string name="dog_name_30">Michael Faraday 2560</string>
+    <string name="dog_name_31">Mildred S. Dresselhaus 2560</string>
+    <string name="dog_name_32">Nicolaus Copernicus 2560</string>
+    <string name="dog_description_1">Uria@exam.com</string>
+    <string name="dog_description_2">Einstein@exam.com</string>
+    <string name="dog_description_3">Behrensmeyer@exam.com</string>
+    <string name="dog_description_4">Pascal@exam.com</string>
+    <string name="dog_description_5">Herschel@exam.com</string>
+    <string name="dog_description_6">Gaposchkin@exam.com</string>
+    <string name="dog_description_7">Wu@exam.com</string>
+    <string name="dog_description_8">Hodgkin@exam.com</string>
+    <string name="dog_description_9">Halley@exam.com </string>
+    <string name="dog_description_10">Hubble@exam.com </string>
+    <string name="dog_description_11">Blackburn@exam.com </string>
+    <string name="dog_description_12">Fermi@exam.com  </string>
+    <string name="dog_description_13">Schroedinger@exam.com </string>
+    <string name="dog_description_14">Staal@exam.com</string>
+    <string name="dog_description_15">Robbins@exam.com</string>
+    <string name="dog_description_16">Seydoux@exam.com</string>
+    <string name="dog_description_17">Elion@exam.com  </string>
+    <string name="dog_description_18">Daubechies@exam.com </string>
+    <string name="dog_description_19">Barton@exam.com </string>
+    <string name="dog_description_20">Goodall@exam.com  </string>
+    <string name="dog_description_21">Burnell@exam.com </string>
+    <string name="dog_description_22">Kepler@exam.com  </string>
+    <string name="dog_description_23">Hau@exam.com </string>
+    <string name="dog_description_24">Meitner@exam.com  </string>
+    <string name="dog_description_25">Kelvin@exam.com </string>
+    <string name="dog_description_26">Mitchell@exam.com </string>
+    <string name="dog_description_27">Born@exam.com </string>
+    <string name="dog_description_28"> Planck@exam.com </string>
+    <string name="dog_description_29">Franklin@exam.com  </string>
+    <string name="dog_description_30">Faraday@exam.com </string>
+    <string name="dog_description_31">Dresselhaus@exam.com </string>
+    <string name="dog_description_32">Copernicus@exam.com </string>
+    <string name="about">About:</string>
+    <string name="years_old">%d id</string>
+    <string name="Email">%d Email</string>
+    <string name="expand_button_content_description">See more or less information about a dog.</string>
+</resources>
